@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const exec = require("child_process").exec;
 const sed = require('./src/sed');
 const writer = require('./src/writer');

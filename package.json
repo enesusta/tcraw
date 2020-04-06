@@ -1,8 +1,11 @@
 {
   "name": "@enesusta/tcraw",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Tureng Crawling for MP3 Files",
   "main": "index.js",
+  "bin": {
+    "tcraw": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
