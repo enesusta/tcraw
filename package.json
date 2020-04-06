@@ -1,0 +1,27 @@
+{
+  "name": "@enesusta/tureng-soup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesusta/tureng-soup.git"
+  },
+  "keywords": [
+    "soup",
+    "tureng"
+  ],
+  "author": "Enes Usta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enesusta/tureng-soup/issues"
+  },
+  "homepage": "https://github.com/enesusta/tureng-soup#readme",
+  "dependencies": {
+    "jssoup": "0.0.11",
+    "request": "^2.88.2"
+  }
+}
