@@ -1,5 +1,5 @@
 {
-  "name": "@enesusta/tureng-soup",
+  "name": "@enesusta/tcraw",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enesusta/tureng-soup.git"
+    "url": "git+https://github.com/enesusta/tcraw.git"
   },
   "keywords": [
     "soup",
@@ -17,9 +17,9 @@
   "author": "Enes Usta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enesusta/tureng-soup/issues"
+    "url": "https://github.com/enesusta/tcrawp/issues"
   },
-  "homepage": "https://github.com/enesusta/tureng-soup#readme",
+  "homepage": "https://github.com/enesusta/tcraw#readme",
   "dependencies": {
     "jssoup": "0.0.11",
     "request": "^2.88.2"
